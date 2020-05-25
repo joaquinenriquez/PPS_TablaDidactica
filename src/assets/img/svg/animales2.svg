@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<path style="fill:#795548;" d="M24,41c-3.866,0-7-1.717-7-9s3.134-12,7-12s7,4.719,7,12S27.866,41,24,41z"/>
+<path style="fill:#FFCC80;" d="M24,34c-2.761,0-5-0.494-5-4.5s3.196-6.5,5-6.5s5,2.496,5,6.5S26.761,34,24,34z"/>
+<path style="fill:#795548;" d="M34,42.343C34,41.551,32.769,38,29,38c-3.02,0-4,3.002-4,4.457C25,43.645,27.229,44,29.985,44
+	C33.139,44,34,43.061,34,42.343z"/>
+<path style="fill:#795548;" d="M14,42.343C14,41.551,15.231,38,19,38c3.02,0,4,3.002,4,4.457C23,43.645,20.771,44,18.015,44
+	C14.861,44,14,43.061,14,42.343z"/>
+<circle style="fill:#795548;" cx="9" cy="15" r="8"/>
+<circle style="fill:#795548;" cx="39" cy="15" r="8"/>
+<circle style="fill:#6D4C41;" cx="39" cy="15" r="6"/>
+<circle style="fill:#6D4C41;" cx="9" cy="15" r="6"/>
+<path style="fill:#795548;" d="M36,15c0,5.523-3.26,10-12,10s-12-4.477-12-10S15.263,5,24,5S36,9.477,36,15z"/>
+<path style="fill:#FFCC80;" d="M14,15c0,4.418,2.011,8,10,8s10-3.582,10-8s-1.932-8-10-8S14,10.582,14,15z"/>
+<circle style="fill:#FFFFFF;" cx="28.5" cy="15.5" r="2.5"/>
+<circle style="fill:#FFFFFF;" cx="19.5" cy="15.5" r="2.5"/>
+<circle style="fill:#263238;" cx="28.5" cy="16" r="2"/>
+<circle style="fill:#FFFFFF;" cx="29.5" cy="14.5" r="0.5"/>
+<circle style="fill:#263238;" cx="19.5" cy="16" r="2"/>
+<polygon style="fill:#455A64;" points="22.5,19 24,17.5 25.5,19 "/>
+<path style="fill:#FF5722;" d="M26,20c0,0-1.029,1.467-2,1.467S22,20,22,20s1.044,0.566,2,0.566S26,20,26,20z"/>
+<path style="fill:none;stroke:#795548;stroke-width:1.4;stroke-linecap:round;stroke-miterlimit:10;" d="M29.307,10.305
+	c0,0-0.801-0.566-2.018-0.305"/>
+<path style="fill:none;stroke:#795548;stroke-width:1.4;stroke-linecap:round;stroke-miterlimit:10;" d="M18.693,10.305
+	c0,0,0.801-0.566,2.018-0.305"/>
+<circle style="fill:#FFFFFF;" cx="20.5" cy="14.5" r="0.5"/>
+<path style="fill:#795548;" d="M36,32c0,1.105-0.895,2-2,2s-2-0.895-2-2c0-4.014-4.105-7-3-7C30.828,25,36,27.948,36,32z"/>
+<path style="fill:#795548;" d="M12,32c0,1.105,0.895,2,2,2s2-0.895,2-2c0-4.014,4.105-7,3-7C17.172,25,12,27.948,12,32z"/>
+</svg>

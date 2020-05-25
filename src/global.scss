@@ -1,0 +1,57 @@
+/*
+ * App Global CSS
+ * ----------------------------------------------------------------------------
+ * Put style rules here that you want to apply globally. These styles are for
+ * the entire app and not just one component. Additionally, this file can be
+ * used as an entry point to import other CSS/Sass files to be included in the
+ * output CSS.
+ * For more information on global stylesheets, visit the documentation:
+ * https://ionicframework.com/docs/layout/global-stylesheets
+ */
+
+/* Core CSS required for Ionic components to work properly */
+@import "~@ionic/angular/css/core.css";
+
+/* Basic CSS for apps built with Ionic */
+@import "~@ionic/angular/css/normalize.css";
+@import "~@ionic/angular/css/structure.css";
+@import "~@ionic/angular/css/typography.css";
+@import '~@ionic/angular/css/display.css';
+
+/* Optional CSS utils that can be commented out */
+@import "~@ionic/angular/css/padding.css";
+@import "~@ionic/angular/css/float-elements.css";
+@import "~@ionic/angular/css/text-alignment.css";
+@import "~@ionic/angular/css/text-transformation.css";
+@import "~@ionic/angular/css/flex-utils.css";
+
+// animaciones
+@import "~animate.css/animate.css";
+
+.ion-color-color-animales {
+  --ion-color-base: var(--ion-color-color-animales);
+  --ion-color-base-rgb: var(--ion-color-color-animales-rgb);
+  --ion-color-contrast: var(--ion-color-color-animales-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-color-animales-contrast-rgb);
+  --ion-color-shade: var(--ion-color-color-animales-shade);
+  --ion-color-tint: var(--ion-color-color-animales-tint);
+}
+
+.ion-color-color-numeros {
+  --ion-color-base: var(--ion-color-color-numeros);
+  --ion-color-base-rgb: var(--ion-color-color-numeros-rgb);
+  --ion-color-contrast: var(--ion-color-color-numeros-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-color-numeros-contrast-rgb);
+  --ion-color-shade: var(--ion-color-color-numeros-shade);
+  --ion-color-tint: var(--ion-color-color-numeros-tint);
+}
+
+
+.ion-color-color-colores {
+  --ion-color-base: var(--ion-color-color-colores);
+  --ion-color-base-rgb: var(--ion-color-color-colores-rgb);
+  --ion-color-contrast: var(--ion-color-color-colores-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-color-colores-contrast-rgb);
+  --ion-color-shade: var(--ion-color-color-colores-shade);
+  --ion-color-tint: var(--ion-color-color-colores-tint);
+}

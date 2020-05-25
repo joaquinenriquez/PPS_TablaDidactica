@@ -1,0 +1,65 @@
+<!-- <ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Blank
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Blank</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <strong>Ready to create an app?</strong>
+    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+  </div>
+
+<ion-fab-button>
+  <ion-icon class="boton" src="assets/img/svg/bandera1.svg"></ion-icon>
+</ion-fab-button>
+
+
+</ion-content>
+ -->
+
+
+
+ <ion-content no-bounce class="video-container">
+
+
+
+  <!-- <video autoplay loop muted oncanplay="this.muted=true"> -->
+    <video autoplay loop>
+    <source src="../../assets/video/fondo1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+
+  <ion-grid>
+
+    <ion-row class="primeraFila">
+      <ion-fab-button class="botonBandera" (click)="mostrarMenuTemas('ingles')">
+        <ion-icon class="iconoBotonBandera" src="assets/img/svg/bandera1.svg"></ion-icon>
+      </ion-fab-button>
+    </ion-row>
+
+    <ion-row class="filas">
+      <ion-fab-button class="botonBandera" (click)="mostrarMenuTemas('espanol')">
+        <ion-icon class="iconoBotonBandera" src="assets/img/svg/bandera2.svg"></ion-icon>
+      </ion-fab-button>
+    </ion-row>
+
+    <ion-row class="filas">
+      <ion-fab-button class="botonBandera" (click)="mostrarMenuTemas('portugues')">
+        <ion-icon class="iconoBotonBandera" src="assets/img/svg/bandera3.svg"></ion-icon>
+      </ion-fab-button>
+    </ion-row>
+
+  </ion-grid>
+
+
+</ion-content>

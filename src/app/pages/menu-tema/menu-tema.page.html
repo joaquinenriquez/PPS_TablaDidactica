@@ -1,0 +1,58 @@
+<ion-content no-bounce class="video-container">
+
+
+
+  <video autoplay loop preload="none" muted="" playsinline="" data-wf-ignore="true" poster="../../../assets/img/png/postervideo1.png">
+    <source src="../../assets/video/fondo1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+
+  <ion-grid>
+
+    <ion-row class="primeraFila">
+      <ion-fab-button class="botonBandera" color="color-numeros" (click)="mostrarTema('animales')">
+        <ion-icon class="iconoBotonBandera" src="assets/img/svg/animales2.svg"></ion-icon>
+      </ion-fab-button>
+    </ion-row>
+
+    <ion-row class="filas">
+      <ion-fab-button class="botonBandera" color="color-animales" (click)="mostrarTema('numeros')">
+        <ion-icon class="iconoBotonBandera" src="assets/img/svg/numeros.svg"></ion-icon>
+      </ion-fab-button>
+    </ion-row>
+
+    <ion-row class="filas">
+      <ion-fab-button class="botonBandera" color="color-colores" (click)="mostrarTema('colores')">
+        <ion-icon class="iconoBotonBandera" src="assets/img/svg/colores.svg"></ion-icon>
+      </ion-fab-button>
+    </ion-row>
+
+  </ion-grid>
+
+
+</ion-content>
+
+
+<!-- <ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Second Page</ion-title>
+  </ion-toolbar>
+</ion-header>
+ 
+<ion-content>
+ 
+  <ion-card>
+    <ion-card-header>
+      <ion-card-subtitle @slidelefttitle>Awesome Subtitle</ion-card-subtitle>
+      <ion-card-title @slidelefttitle>My animated card</ion-card-title>
+    </ion-card-header>
+    <ion-card-content @fadein>
+      <img src="https://d2hkzae1xmryt1.cloudfront.net/wp-content/uploads/2017/06/simon-dwx.png">
+    </ion-card-content>
+  </ion-card>
+ 
+</ion-content> -->
